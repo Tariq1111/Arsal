@@ -12,6 +12,12 @@ console.log(typeof dataBoolean);
 let bigInt = 4434n;
 console.log(typeof bigInt);
 
+//kjhregklh;ofdbfbd
+
+
+
+
+// fngklsndklnks
 let checkNull = null;
 console.log(checkNull);
 
